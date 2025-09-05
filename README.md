@@ -19,3 +19,6 @@ This variation was popularized by the TV show *The Big Bang Theory*, and it help
 
 ---
 ✨ With 5 options and 10 possible interactions, the game becomes more balanced and a lot more fun!
+
+<img width="846" height="787" alt="image" src="https://github.com/user-attachments/assets/09f9e95c-b13f-4792-8601-ecffd4b17d3e" />
+
