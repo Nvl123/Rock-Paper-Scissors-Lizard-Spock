@@ -33,6 +33,9 @@ while exit_game == True:
     try:
         user_choice = int(user_choice)
 
+        if user_choice > 7 or user_choice < 1:
+            raise ValueError("Invalid choice Please choise between 1 to 7")
+
     except ValueError:
         print(f"{user_choice} must be a number, please try again.")
         continue
